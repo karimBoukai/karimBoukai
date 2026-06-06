@@ -282,7 +282,7 @@ GitHub: https://github.com/karimBoukai
 
 Portfolio: Coming Soon
 
-Email: Available upon request
+Email: karim_Boukai@hotmail.com
 
 ---
 

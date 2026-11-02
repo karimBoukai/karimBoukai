@@ -1,8 +1,9 @@
-<h1 align="center">Kerim Elmali</h1>
+<h1 align="center">Kerim Elmali <sub>· Karim Boukai</sub></h1>
 
 <p align="center">
   <strong>Software Engineer</strong> · Backend, Databases, Cybersecurity & AI · Istanbul, Türkiye<br />
-  <sub>B.Sc. in Software Engineering, Bahçeşehir University (2026) · also known as Karim Boukai</sub>
+  <sub>B.Sc. in Software Engineering, Bahçeşehir University (2026)</sub><br />
+  <sub><em>Kerim Elmali and Karim Boukai are both my legal names (I hold two citizenships). Documents and profiles may use either.</em></sub>
 </p>
 
 <p align="center">
